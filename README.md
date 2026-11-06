@@ -70,15 +70,6 @@ End-to-end pipeline: 5 relational tables (13.2K encounters, 26.7K prescriptions)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apodeep&show_icons=true&theme=radial" alt="Apodeep GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apodeep&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
----
-
 ## 🌱 Currently
 
 - 🎓 Data Analytics internship at **NextGen Institute (NGI)**: Advanced Excel, SQL, Power BI, Python
