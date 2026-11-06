@@ -70,11 +70,11 @@ End-to-end pipeline: 5 relational tables (13.2K encounters, 26.7K prescriptions)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Apodeep&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apodeep&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apodeep&show_icons=true&theme=radial" alt="Apodeep GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apodeep&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
 ---
